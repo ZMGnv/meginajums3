@@ -1,1 +1,1 @@
-ffsadfsasfd
+Šis ir otrais mēģinājums ar git!
